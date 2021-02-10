@@ -29,7 +29,7 @@ def get_jobs(keyword, num_jobs, verbose,sleep_time):
     #Change the path to where chromedriver is in your home folder.
     driver = webdriver.Firefox(executable_path="/Users/apple/Desktop/Data Science/DS_Salary/geckodriver")
     driver.set_window_size(1120, 1000)
-    url = 'https://www.glassdoor.co.in/Job/data-scientist-jobs-SRCH_KO0,14.htm'
+    url = 'https://www.glassdoor.co.in/Job/'+keyword+'-jobs-SRCH_KO0,14.htm'
     driver.get(url)
     driver.maximize_window()
 
