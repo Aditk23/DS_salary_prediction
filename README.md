@@ -8,7 +8,8 @@
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium  
-**Web Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905**Referred Repo:** https://github.com/PlayingNumbers/ds_salary_proj/
+**Web Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905   
+**Referred Git Repo:** https://github.com/PlayingNumbers/ds_salary_proj/
 
 
 ## Web Scraping
